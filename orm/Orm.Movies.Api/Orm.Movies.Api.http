@@ -1,0 +1,6 @@
+@Orm.Movies.Api_HostAddress = http://localhost:5237
+
+GET {{Orm.Movies.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

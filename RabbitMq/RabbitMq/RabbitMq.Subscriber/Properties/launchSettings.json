@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RabbitMq.Subscriber": {
+      "commandName": "Project",
+      "commandLineArgs": "Messages.*"
+    }
+  }
+}
